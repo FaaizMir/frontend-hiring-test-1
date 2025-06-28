@@ -157,7 +157,6 @@ const Dashboard = () => {
 
       {/* Main content area */}
       <div className="container mt-4">
-        <h2 className="fw-semibold">Turing Technologies Frontend Test</h2>
 
         {/* Filter dropdown */}
         <div className="mb-3 d-flex align-items-center">
